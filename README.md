@@ -52,7 +52,7 @@ To create a visually appealing, responsive product landing page using Figma Auto
 The dark palette and large PC imagery create a performance-focused identity. Lime accents highlight primary actions, while clear build steps and compatibility guidance make the experience approachable for beginners.
 
 ## Figma Design
-[View the FORGE design](https://www.figma.com/design/j2N9Vu6adAnM0pIsY5KsPQ)
+[View the FORGE design](https://www.figma.com/proto/j2N9Vu6adAnM0pIsY5KsPQ/Untitled?node-id=3-5122&viewport=488%2C290%2C0.06&t=v8wxpS0xoKT0zYNr-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ## Tools Used
 - Figma
@@ -63,10 +63,10 @@ The dark palette and large PC imagery create a performance-focused identity. Lim
 ## Design Preview
 
 ### Desktop
-![FORGE desktop design](desktop.png)
+![FORGE desktop design](FORGE·Desktop.png)
 
 ### Mobile
-![FORGE mobile design](mobile.png)
+![FORGE mobile design](FORGE·Mobile.png)
 
 
 ## Project Status
